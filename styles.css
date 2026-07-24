@@ -761,7 +761,6 @@ nav {
     color: var(--text-main);
     padding: 5rem;
     border-radius: 40px;
-    text-align: center;
 }
 
 .contact-box h2 {
@@ -776,6 +775,7 @@ nav {
     margin: 0 auto 3rem;
     opacity: 0.8;
     line-height: 1.8;
+   
 }
 
 .contact-links {
