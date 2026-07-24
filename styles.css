@@ -470,6 +470,7 @@ nav {
 /* Structural display logic for your project wrappers */
 .project-grid {
   display: none;
+  gap: 30px;
 }
 
 .project-grid.active {
